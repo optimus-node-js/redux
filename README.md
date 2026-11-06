@@ -4,6 +4,8 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
+**Live:** [redux-toolkit-playground-rv.vercel.app](https://redux-toolkit-playground-rv.vercel.app)
+
 ## What's inside
 
 - `src/redux/store.ts`: configured store
